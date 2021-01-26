@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Vahid Khodabakhshi](https://repository-images.githubusercontent.com/333149013/7dbdbb80-6018-11eb-922b-eebc6bd23b30 | width=100)
+<img src="https://repository-images.githubusercontent.com/333149013/7dbdbb80-6018-11eb-922b-eebc6bd23b30" width="200"/>
 <!--
 **black-fractal/black-fractal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
