@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src="https://repository-images.githubusercontent.com/333149013/7dbdbb80-6018-11eb-922b-eebc6bd23b30" width="300"/>
 <!--
+<img src="https://repository-images.githubusercontent.com/333149013/7dbdbb80-6018-11eb-922b-eebc6bd23b30" width="300"/>
 **black-fractal/black-fractal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
